@@ -1,63 +1,27 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== PROFILE PHOTO ===================== -->
 
-<h1 align="center">Hi! I'm Shifa 👋</h1>
+<p align="center">
+  <img src="profile.png" width="180" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">
+  Hi! I'm Shifa
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
+</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI%2FML+Enthusiast;DSA-Focused+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI%2FML+Enthusiast;Patient+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
     alt="Typing Animation"
   />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Building%20Intelligent%20Systems-00E5FF?style=for-the-badge&logo=artstation&logoColor=black" />
-</p>
-
 ---
 
-<!-- ===================== TECH BANNER ===================== -->
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,pytorch,tensorflow,sklearn,opencv,aws,docker,git,linux&theme=dark&perline=7"
-  />
-</p>
+<!-- ===================== TECHNOLOGIES ===================== -->
 
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&bg_color=000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
-  />
-</p>
-
----
-
-<!-- ===================== STATS ===================== -->
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sonishifa&show_icons=true&theme=github_dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=sonishifa&theme=github-dark&hide_border=true"
-  />
-</p>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🧰 Technologies
+## Technologies
 
 ### Languages
 <p align="center">
@@ -91,9 +55,41 @@
 
 ---
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 🐍 Contribution Snake
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=sonishifa&bg_color=000000&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
+---
+<!-- ===================== GITHUB STATS ===================== -->
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sonishifa&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=sonishifa&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+##  Contribution Snake
 
 <p align="center">
   <img
@@ -104,26 +100,25 @@
 
 ---
 
+
 <!-- ===================== CONNECT ===================== -->
 
-## 🌐 Connect
+##  Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shifa-soni">
-    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <a href="https://linkedin.com/in/shifa-soni" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/shifasoni_">
-    <img src="https://img.shields.io/badge/LeetCode-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black" />
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/shifasoni_" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" />
   </a>
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"
   />
 </p>
