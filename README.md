@@ -1,86 +1,97 @@
-<h1 align="center">Hey 👋 I'm Shifa Soni</h1>
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">Hi! I'm Shifa 👋</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=80%25&lines=AI%2FML+Enthusiast;DSA+Focused+Engineer;Research+Driven+Learner;Open+Source+Explorer"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI%2FML+Enthusiast;DSA-Focused+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building%20Intelligent%20Systems-00E5FF?style=for-the-badge&logo=artstation&logoColor=black" />
+</p>
+
+---
+
+<!-- ===================== TECH BANNER ===================== -->
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,pytorch,tensorflow,sklearn,opencv,aws,docker,git,linux&theme=dark&perline=7"
   />
 </p>
 
 ---
 
-## ⚡ Tech Stack Overview
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,aws,docker,git,linux,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=6" />
-</p>
-
----
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 ## 📊 Contribution Activity
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&theme=github-compact&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&bg_color=000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
   />
-</div>
+</p>
 
 ---
 
-## 📈 GitHub Statistics
+<!-- ===================== STATS ===================== -->
 
-<div align="center">
+## 📈 GitHub Stats
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sonishifa&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
   />
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sonishifa&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=sonishifa&theme=github-dark&hide_border=true"
   />
-</div>
+</p>
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🧰 Technologies
 
-### 🧠 Languages
-<p>
+### Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" />
 </p>
 
-### 🎨 Frontend
-<p>
+### Frontend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 </p>
 
-### 🛠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### 🗄 Databases
-<p>
+### Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 </p>
 
-### 🤖 AI / ML
-<p>
+### AI / ML
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
+### Cloud & DevOps
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" />
 </p>
 
 ---
+
+<!-- ===================== SNAKE ===================== -->
 
 ## 🐍 Contribution Snake
 
@@ -93,14 +104,26 @@
 
 ---
 
-## 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shifa-soni">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.leetcode.com/shifasoni_">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
+    <img src="https://img.shields.io/badge/LeetCode-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"
+  />
 </p>
