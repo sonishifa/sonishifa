@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE PHOTO ===================== -->
 
 <p align="center">
-  <img src="profile.png" width="100%" style="border-radius:50%;" />
+  <img src="profile.png" width="70%" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">
@@ -14,7 +14,6 @@
     src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=AI%2FML+Enthusiast;Patient+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
   />
 </p>
-
 
 
 <!-- ===================== TECHNOLOGIES ===================== -->
@@ -59,12 +58,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=sonishifa&bg_color=000000&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
   />
 </p>
 
----
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## GitHub Statistics
@@ -93,25 +92,24 @@
   <img
     src="https://raw.githubusercontent.com/sonishifa/sonishifa/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
+    width="100%"
   />
 </p>
 
----
 
 
 <!-- ===================== CONNECT ===================== -->
 
-##  Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/shifa-soni" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/shifasoni_" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48" style="filter: invert(1);" />
   </a>
 </p>
+
 
 ---
 
