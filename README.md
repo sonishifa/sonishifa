@@ -1,22 +1,20 @@
 <!-- ===================== PROFILE PHOTO ===================== -->
 
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%;" />
+  <img src="profile.png" width="100%" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">
-  Hi! I'm Shifa
+  <span style="color:#36BCF7;">Hi! I'm Shifa</span>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI%2FML+Enthusiast;Patient+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=AI%2FML+Enthusiast;Patient+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
   />
 </p>
 
----
 
 
 <!-- ===================== TECHNOLOGIES ===================== -->
