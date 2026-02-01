@@ -1,42 +1,39 @@
-<!-- FULL-WIDTH TECH STACK BANNER -->
-<div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,pytorch,tensorflow,sklearn,opencv,aws,gcp,docker,git,linux&perline=8" 
-    width="100%"
-  />
-</div>
-
-<br/>
-
-<h1 align="center">Hi! I'm Shifa</h1>
+<h1 align="center">Hey 👋 I'm Shifa Soni</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=AI%2FML+Enthusiast;DSA-Focused;Passionate+Researcher;Aspiring+Open-Source+Contributor"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=80%25&lines=AI%2FML+Enthusiast;DSA+Focused+Engineer;Research+Driven+Learner;Open+Source+Explorer"
+    alt="Typing SVG"
   />
 </p>
 
-<br/><br/>
+---
 
-<!-- CONTRIBUTION ACTIVITY -->
-<h2 align="center">Contribution Activity</h2>
+## ⚡ Tech Stack Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,aws,docker,git,linux,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=6" />
+</p>
+
+---
+
+## 📊 Contribution Activity
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&bg_color=000000&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true"
-    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonishifa&theme=github-compact&hide_border=true"
+    alt="Contribution Graph"
   />
 </div>
 
-<br/><br/>
+---
 
-<!-- GITHUB STATS -->
-<h2 align="center">GitHub Statistics</h2>
+## 📈 GitHub Statistics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sonishifa&show_icons=true&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=sonishifa&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 </div>
 
@@ -44,71 +41,66 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sonishifa&background=000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=ffffff&dates=ffffff&hide_border=true"
-    width="100%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sonishifa&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
 
-<br/><br/>
+---
 
-<!-- TECHNOLOGIES -->
-<h2 align="center">Technologies</h2>
+## 🧰 Technologies
 
-<div align="center">
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" />
+</p>
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+</p>
 
-<br/><br/>
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
+</p>
 
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+</p>
 
-<br/><br/>
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+</p>
 
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" />
+</p>
 
-<br/><br/>
+---
 
-<h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+## 🐍 Contribution Snake
 
-<br/><br/>
-
-<h3>AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-
-<br/><br/>
-
-<h3>Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,linux" />
-
-</div>
-
-<br/><br/>
-
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/sonishifa/sonishifa/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
+    alt="Contribution Snake"
   />
-</div>
+</p>
 
-<br/><br/>
+---
 
-<!-- CONNECT -->
-<h2 align="center">Connect</h2>
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/shifa-soni">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.leetcode.com/shifasoni_">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
   </a>
-</div>
+</p>
