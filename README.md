@@ -1,23 +1,14 @@
 <!-- ===================== PROFILE PHOTO ===================== -->
-
-<table>
-  <tr>
-    <td>
-      <img src="github-readme.png" width="100%" />
-    </td>
-  </tr>
-</table>
-
-
-<h1 align="center">
-  <span style="color:#36BCF7;">Hi! I'm Shifa</span>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
-</h1>
+<p align="center">
+  <img 
+    src="github-readme.png"
+    alt="Tech Stack Banner"
+    style="width:60%; height:auto; border-radius:12px;"
+  />
+</p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36BCF7&lines=AI%2FML+Enthusiast;Patient+Problem+Solver;Passionate+Researcher;Aspiring+Open-Source+Contributor"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&size=20&color=2563EB&lines=𝑯𝒊!+𝑰'𝒎+𝑺𝒉𝒊𝒇𝒂+👋;𝑨𝑰/𝑴𝑳+𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕+🤖;𝑷𝒂𝒕𝒊𝒆𝒏𝒕+𝑷𝒓𝒐𝒃𝒍𝒆𝒎+𝑺𝒐𝒍𝒗𝒆𝒓+🧠;𝑷𝒂𝒔s𝒊𝒐𝒏𝒂𝒕𝒆+𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓+💻;𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈+𝑶𝒑𝒆𝒏-𝑺𝒐𝒖𝒓𝒄𝒆+𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒐𝒓+🚀" />
 </p>
 
 
@@ -95,17 +86,6 @@
 
 
 
-<!-- ===================== CONNECT ===================== -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/shifa-soni" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/shifasoni_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48" style="filter: invert(1);" />
-  </a>
-</p>
 
 
 ---
