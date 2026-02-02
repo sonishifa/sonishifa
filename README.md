@@ -1,6 +1,13 @@
 <!-- ===================== PROFILE PHOTO ===================== -->
 
-<p align="center"> <img src="profile.png" width="70%" style="border-radius:50%;" /> </p> 
+<table>
+  <tr>
+    <td>
+      <img src="github-readme.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="center">
   <span style="color:#36BCF7;">Hi! I'm Shifa</span>
