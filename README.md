@@ -3,7 +3,7 @@
   <img 
     src="github-readme.png"
     alt="Tech Stack Banner"
-    style="width:60%; height:auto; border-radius:12px;"
+    style="width:80%; height:auto; border-radius:12px;"
   />
 </p>
 
