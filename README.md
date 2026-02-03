@@ -64,7 +64,12 @@
 
 ## GitHub Statistics
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sonishifa&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=sonishifa&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
@@ -79,10 +84,6 @@
   />
 </p>
 
-
-
-
----
 
 <p align="center">
   <img
